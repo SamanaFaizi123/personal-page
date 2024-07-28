@@ -1,0 +1,142 @@
+.back{
+    background: url(gif9.gif);
+    height: 178vh;
+    width: 70%;
+    margin: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}.title{
+    position: relative;
+    top: 119px;
+    margin-left: 23px;
+   
+}.title hr{
+    width: 30%;
+   position: relative;
+   right: 293px;
+   color: rgb(207, 129, 129);
+}.header{
+    display: inline-flex;
+    justify-content:center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}.header ul li{
+    margin-left: 20px;
+    display: inline-block;
+    position: relative;
+    top: 90px;
+    left: 280px;
+}.header ul li a{
+    text-decoration: none;
+    color: black
+}.imag-main{
+    background: url(image6.jpg);
+    height: 280px;
+    position: relative;
+    top: 90px;
+    width: 95%;
+    margin: auto;
+}.imag-main img{
+    padding: 12px;
+    margin-left: 23px;
+}.imag-main p{
+    margin-left: 30px;
+    color: white;
+}.imag2{
+    position: relative;
+    left: 444px;
+}.div1{
+    position: relative;
+    top: 100px;
+    display: inline-block;
+}.div1 h4{
+    display: inline-block;
+    float: right;
+    position: relative;
+    bottom: 135px;
+    left: 30px;
+    color: #af795d;
+}.div1 img{
+    position: relative;
+    bottom:120px;
+    left: 22px;
+}.div2{
+    display: inline-block;
+    position: relative;
+    bottom: -150px;
+    right: 74px;
+}.div3{
+    display: inline-block;
+    float: right;
+    position: relative;
+    bottom:-150px;
+    right: 404px;
+}.div4{
+    position: relative;
+    top: 260px;
+    display: inline-block;
+}.div4 h4{
+    display: inline-block;
+    float: right;
+    position: relative;
+    bottom: 83px;
+    right: 270px;
+    color: #af795d;
+}.div4 img{
+    position: relative;
+    bottom: 70px;
+    right: 280px;
+}.div5{
+    position: relative;
+    bottom: -170px;
+    left: 26px;
+    color: #af795d;
+    display: inline-block;
+}.div6{
+    position: relative;
+    top: 280px;
+    display: inline-block;
+    float: right;
+}.div6 img{
+    position: relative;
+    bottom: 365px;
+    left: -90px;
+}.div6 h4{
+    position: relative;
+    bottom: 410px;
+    left:-50px;
+    color: #af795d;
+    
+}.par{
+    position: relative;
+    bottom: 410px;
+    left: -90px;
+    color: #af795d;
+} .par2{
+    position: relative;
+    bottom: 420px;
+    right: 90px;
+}.par3{
+    position: relative;
+    bottom: 420px;
+    left: 160px;
+    color: #af795d;
+}.line{
+    position:relative;
+    bottom: 420px;
+    width: 100%;
+    right: 60px;
+}.line2{
+    position: relative;
+    top: 360px;
+    left: 60px;
+}.imag3{
+    position: relative;
+    top: 360px;
+    left: 20px;
+}.imag4{
+    position: relative;
+    top:360px;
+    left: 420px;
+}
