@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 .back{
     background: url(gif9.gif);
     height: 178vh;
