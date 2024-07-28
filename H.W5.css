@@ -18,7 +18,7 @@
 }.title hr{
     width: 30%;
    position: relative;
-   right: 292px;
+   right: 293px;
    color: rgb(207, 129, 129);
 }.header{
     display: inline-flex;
@@ -43,7 +43,7 @@
     width: 95%;
     margin: auto;
 }.imag-main img{
-    padding: 12px;
+    padding: 13px;
     margin-left: 23px;
 }.imag-main p{
     margin-left: 30px;
